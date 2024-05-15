@@ -1,0 +1,48 @@
+[24-Apr-2024 05:34:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php:3
+Stack trace:
+#0 /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php(3): mysqli_connect()
+#1 /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php(88): include('/home/meiyumyi/...')
+#2 {main}
+  thrown in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php on line 3
+[24-Apr-2024 05:34:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php:3
+Stack trace:
+#0 /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php(3): mysqli_connect()
+#1 /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php(88): include('/home/meiyumyi/...')
+#2 {main}
+  thrown in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php on line 3
+[24-Apr-2024 05:35:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php:3
+Stack trace:
+#0 /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php(3): mysqli_connect()
+#1 /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php(88): include('/home/meiyumyi/...')
+#2 {main}
+  thrown in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php on line 3
+[24-Apr-2024 05:37:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php:3
+Stack trace:
+#0 /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php(3): mysqli_connect()
+#1 /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php(88): include('/home/meiyumyi/...')
+#2 {main}
+  thrown in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php on line 3
+[24-Apr-2024 05:37:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php:3
+Stack trace:
+#0 /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php(3): mysqli_connect()
+#1 /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php(88): include('/home/meiyumyi/...')
+#2 {main}
+  thrown in /home/meiyumyi/emember.meiyu.my.id/gojuass/koneksi.php on line 3
+[24-Apr-2024 05:44:29 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[24-Apr-2024 05:46:31 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[24-Apr-2024 09:45:09 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[24-Apr-2024 09:46:17 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[29-Apr-2024 15:10:53 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[29-Apr-2024 15:24:14 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[29-Apr-2024 22:02:34 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 00:55:55 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 02:21:29 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 02:23:52 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 02:49:40 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:12:59 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:14:06 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:14:58 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:15:28 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:16:57 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:19:24 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
+[30-Apr-2024 03:20:10 UTC] PHP Warning:  Undefined array key "foto_anggota" in /home/meiyumyi/emember.meiyu.my.id/gojuass/login.php on line 106
